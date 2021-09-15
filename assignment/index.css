@@ -1,0 +1,41 @@
+:root{
+    --font-digital:'digit-7'
+}
+body {
+    margin: 0;
+    padding: 0;
+
+ .conatiner{
+    display: block;
+    margin: 50px;}
+
+    .banner .card {
+        background-color: azure;
+        display: block;
+
+    }
+    .banner .card.heading {
+        color: chartreuse;
+        font-family:"roboto condensed",serif;
+        font-size: 65px;
+        margin-bottom: 5px;
+        padding: 50px;}
+        .banner .card .sub-heading button {
+            background: none;
+            border: none;
+            color: cornflowerblue;
+            border-radius: 5px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: 20px;
+            margin: 0;
+            padding: 0 30px 30px;
+            
+
+        }
+    
+
+    }
+
+}
+}
+}
